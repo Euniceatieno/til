@@ -1,3 +1,2 @@
 # Today I Learned {TIL}
-You're here!!!!! Welcome
-This is a repository that allows me to share my learning and upskilling journey.
+Documenting my learning and upskilling journey in a more cool way.
