@@ -4,7 +4,8 @@ Documenting my learning and upskilling journey in a more cool way.
 # Database Modelling using sqlalchemy
 When creating table objects using sqlalchemy ,the object inherits from
 an inbuild class called *declarative_base*.
-We import data types such as Integer,String and Text from the sqlalchemy datatypes library
+We import data types such as Integer,String and Text from the sqlalchemy datatypes library.
++ Code snippet below for demo purposes
 
 ```from sqlachemy.ext.declarative import declarative_base
 from sqlachemy import Column
