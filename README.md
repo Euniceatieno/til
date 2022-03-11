@@ -14,7 +14,7 @@ Bitbucket is a cloud based hosting platform.
 
 I covered the topics below:  
 + Creating a repository : https://github.com/Euniceatieno/til/blob/main/Bitbucket/createrepo.md
-+ Pushing changes to a bitbucket repo : https://github.com/Euniceatieno/til/blob/main/Bitbucket/pushingchanges.md 
++ Pushing changes : https://github.com/Euniceatieno/til/blob/main/Bitbucket/pushingchanges.md 
 + CI/CD : https://github.com/Euniceatieno/til/blob/main/Bitbucket/cicd.md
 
 
