@@ -1,6 +1,6 @@
 # Relationships in sqlalchemy
 There exists different relationships between tables  
-in sql i.e one to many ,many to many etc  
+in sqlalchemy i.e one to many ,many to many etc  
 Below is a code snippet of two models to demostrate database relationships in sql:
 
 ```class Product(Base):
@@ -20,7 +20,7 @@ Below is a code snippet of two models to demostrate database relationships in sq
     category = relationship(Category, backref = backref('products', uselist=True, cascade='delete,all'))
 
 
-    def __repr__():
+    def __repr__(self):
         return "<Product %r>" % self.
 
 class Product_Item(Base):
