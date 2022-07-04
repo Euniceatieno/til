@@ -1,0 +1,1 @@
+Theme UI allows developers to create theme objects and use these objects in components.
