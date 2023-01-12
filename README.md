@@ -33,6 +33,16 @@ programs and databases.
    + *Queries : https://github.com/Euniceatieno/til/blob/main/Graphql/queries.md*
 
 
+## GO
++ GO is a compiled programming language used for building backend applications.  
++ Go bears similarity to programming the C programming language. 
++ Go programs run faster than most programs written in dynamically typed 
+ languages and experience less errors frelated to types. 
+
+#### Topics Covered
+   
+
+
 
 
 
